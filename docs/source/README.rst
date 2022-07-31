@@ -10,14 +10,8 @@ Release v\ |release| (:ref:`What's new? <release_history>`).
 Table of Content
 ------------------------------------------------------------------------------
 
-.. autotoctree::
-    :maxdepth: 1
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
 
-.. include:: ../../AUTHORS.rst
-
-
-API Document
-------------------------------------------------------------------------------
-
-* :ref:`by Name <genindex>`
-* :ref:`by Structure <modindex>`
+   01-Quick-Start/quick-start

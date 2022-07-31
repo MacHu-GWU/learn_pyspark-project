@@ -3,7 +3,13 @@ learn_pyspark_venv/
 learn_pyspark.egg-info/
 learn_pyspark-*/
 tmp/
+site-packages/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

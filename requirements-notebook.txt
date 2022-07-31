@@ -1,0 +1,2 @@
+# additional dependencies for Jupyter Notebook in container
+s3pathlib
