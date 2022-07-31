@@ -1,0 +1,7 @@
+# This requirements file should only include dependencies for development
+wheel==0.37.1                           # make pre-compiled distribution package
+twine==3.8.0                            # make distribution archive
+pathlib_mate==1.0.3                     # autopep8 your code
+s3pathlib==1.0.11                       # AWS S3 utils
+black==22.6.0                           # code style formatter
+rich==11.2.0                            # pretty printer

@@ -1,0 +1,14 @@
+# This requirements file should only include dependencies for documentations
+# sphinx doc builder
+sphinx==4.3.0
+
+# Extensions
+sphinx-jinja==1.1.1                     # allow jinja2 template
+sphinx-copybutton==0.4.0                # add copy to clipboard button for code block
+nbsphinx==0.8.9                         # support Jupyter Notebook
+docfly==1.0.2                           # auto API manual, auto Table of Content
+rstobj==0.0.7                           # generate list table from data
+
+# Theme
+furo==2021.8.31                         # modern doc theme
+pygments==2.10.0                        # live RestructuredText preview

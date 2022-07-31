@@ -1,0 +1,16 @@
+// This JSON file defines the Project-wide configurations
+{
+    // the python package name, use lowercase, digits, and underscore only
+    // this would be the name for ``pip install ${PACKAGE_NAME}``
+    "PACKAGE_NAME": "learn_pyspark",
+    "PYTHON_VERSION": "3.7.13",
+    // The AWS Profile for Authentication, only used if working on local laptop
+    "AWS_PROFILE": "aws_data_lab_sanhe_us_east_2",
+    // Where you want to store your Glue Python Library and Glue ETL Script artifacts
+    "AWS_GLUE_ARTIFACT_S3_BUCKET": "",
+    "AWS_GLUE_ARTIFACT_S3_PREFIX": "",
+    // [Optional] the AWS CodeArtifacts
+    "AWS_CODE_ARTIFACT_DOMAIN": "",
+    "AWS_CODE_ARTIFACT_REPO": "",
+    "_DO_NOT_REMOVE_ME": null
+}

@@ -1,0 +1,13 @@
+# dependencies for aws_glue_automations.py script
+# all library here should be installed to your global ``python3`` interpreter
+# if you are on local laptop, you could install it to your ``pyenv``
+#   manage python, so you won't mess up with your system python
+# if you are on AWS Cloud9, you could install it to the environment
+#   default ``python3``.
+# if you are in CI system, you can install it worry free since it is a use
+#   and go environment
+wheel==0.37.1                           # make pre-compiled distribution package
+packaging==21.3                         # twine dependency
+twine==3.8.0                            # make distribution archive
+black==22.6.0                           # code style formatter
+s3pathlib>=1.0.11                       # aws s3 tool
