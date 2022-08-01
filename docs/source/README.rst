@@ -16,3 +16,5 @@ Table of Content
     01-Quick-Start/quick-start
     02-Aggregation/aggregation
     03-Functions/functions
+    04-Typing/typing
+    05-Filtering/filtering
