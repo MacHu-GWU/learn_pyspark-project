@@ -11,7 +11,8 @@ Table of Content
 ------------------------------------------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+    :maxdepth: 1
 
-   01-Quick-Start/quick-start
+    01-Quick-Start/quick-start
+    02-Aggregation/aggregation
+    03-Functions/functions
